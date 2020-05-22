@@ -1,0 +1,1 @@
+Bot simple para enviar e-mails por menciones en Discord
